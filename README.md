@@ -1,2 +1,2 @@
-Machine Learning Project
+Machine Learning project:
 Spam Email Classification using Naive Bayes Classifier
